@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-    <h1>Awesome Bike Rental Sample</h1>
+    <h1>Awesome Bike Rental</h1>
     <New />
     <Rental  /> 
     <Index  />
